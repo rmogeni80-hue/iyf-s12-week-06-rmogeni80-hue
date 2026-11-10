@@ -10,7 +10,7 @@ A simple weather application built with HTML, CSS, and JavaScript. It fetches li
 - Saves the last 5 searched cities in localStorage.
 
 ## Live Demo
-[Live Website](PASTE_YOUR_LIVE_LINK_HERE_LATER)
+[Live Website](https://rmogeni80-hue.github.io/iyf-s12-week-06-rmogeni80-hue/)
 
 ## Technologies Used
 - HTML5
